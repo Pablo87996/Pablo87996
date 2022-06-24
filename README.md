@@ -1,6 +1,6 @@
 ## Hi, my name is Pablo!
 
-- 🌱 I’m currently learning C++ and Flutter
+- 🌱 I’m currently learning HTML and Java
 - ⚡ Fun fact: I love Python!
 
  <div>
