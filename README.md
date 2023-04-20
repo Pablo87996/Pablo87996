@@ -1,6 +1,6 @@
 ## Hi, my name is Pablo!
 
-- 🌱 I’m currently learning HTML and Java
+- 🌱 I’m currently improving my skills and learning PHP.
 - ⚡ Fun fact: I love Python!
 
  <div>
