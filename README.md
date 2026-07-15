@@ -1,7 +1,7 @@
-## Hi, my name is Pablo!
+## Hi, I'm Pablo!
 
-- 🌱 I’m currently improving my skills and learning Node.js.
-- ⚡ Fun fact: I love Python!
+- 🌱 I study mathematics and computer science at IMPA Tech.
+- 💭 I feel fun thinking in the object-oriented way.
 
  <div>
   <a href="https://github.com/Pablo87996">
