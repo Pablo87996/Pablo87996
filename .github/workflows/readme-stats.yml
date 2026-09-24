@@ -19,7 +19,7 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v1.1.0
+        uses: stats-organization/github-readme-stats-action@v2.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=836FFF&icon_color=00BFFF
@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@v1.1.0
+        uses: stats-organization/github-readme-stats-action@v2.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=radical&title_color=836FFF&icon_color=00BFFF
